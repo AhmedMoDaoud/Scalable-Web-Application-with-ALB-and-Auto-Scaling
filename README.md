@@ -54,7 +54,6 @@ aws-scalable-webapp/
 │ └── ec2-asg-alb-setup.yaml # CloudFormation sample
 │── src/
 └── index.html
-
 ---
 
 ## 🚀 Deployment
