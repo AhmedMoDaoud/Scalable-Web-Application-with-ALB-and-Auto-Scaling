@@ -51,7 +51,7 @@ aws-scalable-webapp/
 │── docs/
 │ └── project-documentation.md
 │── infra/
-│ └── ec2-asg-alb-setup.yaml
+│ └── ec2-asg-alb-setup.yaml # CloudFormation sample
 │── src/
 └── index.html
 
