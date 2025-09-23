@@ -111,7 +111,7 @@ echo "</script>" >> $WEB_FILE
 Scalable Web Application on AWS (EC2 + ALB + ASG)/
 │── README.md
 │── architecture-diagram.png
-│── recorded-video.mp4
+│── recorded-video link
 │── src/
     └── index.html
 ```
