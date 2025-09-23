@@ -119,7 +119,7 @@ Scalable Web Application on AWS (EC2 + ALB + ASG)/
 ---
 
 ## 📹 Recorded Video
-[▶️![Watch the demo](thumbnail.png)](recorded-video.mp4)
+[▶️![Watch the demo](thumbnail.png)](https://drive.google.com/file/d/1fFyjdXlfiYKLiRxbyZLgfncl25sTbtoQ/view?usp=sharing)
 
 ---
 
