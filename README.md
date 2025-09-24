@@ -20,7 +20,7 @@ The solution follows **AWS best practices** for scalability, fault tolerance, an
 **Flow:**
 1. Users access the application through the **Application Load Balancer (ALB)**.
 2. The ALB distributes traffic across multiple **EC2 instances** in an **Auto Scaling Group**.
-3. **Auto Scaling** automatically adjusts capacity based on demand (CPU utilization or traffic).
+3. **Auto Scaling** automatically adjusts capacity based on demand (CPU utilization ).
 4. **Amazon S3** stores static files such as `index.html` [Open index.html](src/index.html) .
 5. **CloudWatch & SNS** monitor health and send alerts.
 6. **IAM Roles** ensure secure access to AWS resources.
