@@ -6,7 +6,6 @@ This project demonstrates the deployment of a **highly available and scalable we
 - **EC2 Instances**
 - **Application Load Balancer (ALB)**
 - **Auto Scaling Groups (ASG)**
-- **Amazon RDS** (optional for database)
 - **Amazon S3** for static content
 - **CloudWatch & SNS** for monitoring and alerts
 
