@@ -124,7 +124,6 @@ Scalable Web Application on AWS (EC2 + ALB + ASG)/
 
 ## 👨‍💻 Author
 **Ahmed Daoud**  
-AWS Cloud Practitioner | Aspiring Solutions Architect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmohameddaoud/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=firefox&logoColor=white)](https://ahmedmodaoud.github.io/)
